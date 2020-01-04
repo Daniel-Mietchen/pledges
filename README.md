@@ -1,2 +1,10 @@
-# pledges
-This repo contains materials about things I am publicluy committed to
+This repo contains materials about things I am publicly committed to. For the moment, consider this a draft &mdash; I will create releases for versions that I consider reasonable comprehensive and up to date.
+
+Dimensions of pledges
+  - environmental
+  - societal
+    - social
+      - familial
+    - cultural
+    - professional
+    - organizational
