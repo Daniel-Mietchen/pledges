@@ -11,3 +11,7 @@ This repo contains materials about things I am publicly committed to. For the mo
     - cultural
     - professional
     - organizational
+
+# See also
+
+I have some notes on pledges over at https://github.com/Daniel-Mietchen/ideas/issues/736 and https://github.com/Daniel-Mietchen/datascience/blob/master/pledges.md that I will incorporate here over time.
