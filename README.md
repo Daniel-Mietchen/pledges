@@ -8,7 +8,7 @@ I pledge to observe the following principles in my knowledge-related professiona
 
 1. only engage in activities where I see sufficient societal benefit;
 1. publicly document my insights into the societal benefits of activities that take up a major part of my time;
-1. take measures to minimize the likelihood that engagement in these activities is detrimental to the health and well-being of myself or those around me;
+1. take measures to minimize the likelihood that engagement in these activities is detrimental to the health and well-being of myself or others;
 1. encourage open participation, scrutiny and repurposing of the processes and workflows underlying my activities;
 1. release public outputs of my activities under a Wikimedia-compatible license, and under CC0/ in the Public Domain if I am the sole contributor;
 1. use these principles as my starting point when negotiating collaborations with others;
