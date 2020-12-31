@@ -78,5 +78,7 @@ As an author or co-author of scholarly manuscripts, am I willing
       - fees are reasonable
   - to publish behind paywalls?
     - No  
+  - to publish under non-open licenses?
+    - No  
   - to sign copyright transfer agreements?
     - No
