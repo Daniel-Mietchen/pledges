@@ -1,6 +1,6 @@
 # About
 
-This file contains clarifications pertaining to frequent questions related to my pledges. If you have additional questions or need further clarifications, please let me know.
+This file contains clarifications pertaining to questions I am frequently posed, though not necessarily in the same way. If you have additional questions or need further clarifications, please let me know.
 
 # Questions
 
@@ -34,6 +34,7 @@ This file contains clarifications pertaining to frequent questions related to my
   - Yes, if
     - I have sufficient expertise
     - All publications in the venue are openly licensed 
+
 
 ## Events
 
