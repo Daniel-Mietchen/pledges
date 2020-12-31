@@ -1,9 +1,8 @@
 # About
 
-This file contains clarifications pertaining to frequent questions related to my pledges. For the moment, this is a draft space.
+This file contains clarifications pertaining to frequent questions related to my pledges. If you have additional questions or need further clarifications, please let me know.
 
 # Questions
-
 
 ## Authoring
 
