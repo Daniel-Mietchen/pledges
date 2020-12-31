@@ -20,11 +20,14 @@ This file contains clarifications pertaining to frequent questions related to my
 
 ## Collaboration
 
-* Am I open to collaborate with
-  - people I do not know?
+* Am I open to collaborate 
+  - with people I do not know?
     - Sure
-  - people from other backgrounds than mine?
+  - with people from other backgrounds than mine?
     - Sure
+  - in an online-first fashion?
+    - Sure
+
 
 ## Editing
 
@@ -32,6 +35,16 @@ This file contains clarifications pertaining to frequent questions related to my
   - Yes, if
     - I have sufficient expertise
     - All publications in the venue are openly licensed 
+
+## Events
+
+* Am I willing to 
+  - attend remotely?
+    - Yes
+  - organize remotely?
+    - Yes
+  - present remotely?
+    - Yes
 
 
 ## Peer review
@@ -66,3 +79,5 @@ As an author or co-author of scholarly manuscripts, am I willing
       - fees are reasonable
   - to publish behind paywalls?
     - No  
+  - to sign copyright transfer agreements?
+    - No
