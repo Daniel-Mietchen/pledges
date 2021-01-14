@@ -46,6 +46,12 @@ This file contains clarifications pertaining to questions I am frequently posed,
   - present remotely?
     - Yes
 
+## Interviews
+
+* Am I willing to be interviewed?
+  - Yes, if
+    - I have sufficient expertise
+    - The interview results in at least some materials that are openly licensed.
 
 ## Peer review
 
