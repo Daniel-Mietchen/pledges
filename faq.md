@@ -69,9 +69,6 @@ This file contains clarifications pertaining to questions I am frequently posed,
   - Yes
 * Am I available as a peer reviewer for other outputs of scholarly workflows?
   - Yes
-* Am I available as a peer reviewer for scholarly manuscripts?
-  - Yes
-
 
 ## Publishing
 
