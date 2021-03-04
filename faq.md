@@ -59,7 +59,7 @@ This file contains clarifications pertaining to questions I am frequently posed,
   - Yes, if
     - I have sufficient expertise
     - All publications in the venue are openly licensed 
-  - I strongly prefer arrangements where my reviews are public. 
+    - The materials I am to review are public at the moment my review is requested
 * Am I available as a peer reviewer for scholarly grant proposals?
   - Yes
 * Am I available as a peer reviewer for scholarly data?
