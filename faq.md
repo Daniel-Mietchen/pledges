@@ -4,6 +4,11 @@ This file contains clarifications pertaining to questions I am frequently posed,
 
 # Questions
 
+## Annotations
+
+* Do I annotate web resources?
+  - Less than I would wish, but [yes](https://hypothes.is/users/Daniel_Mietchen)
+
 ## Authoring
 
 * Do I consent to drafting manuscripts by sending around email attachments?
@@ -32,9 +37,9 @@ This file contains clarifications pertaining to questions I am frequently posed,
 
 * Am I available as an editor for scholarly venues?
   - Yes, if
-    - I have sufficient expertise
-    - All publications in the venue are openly licensed 
-
+    - I have sufficient expertise.
+    - All publications in the venue are openly licensed.
+    - I can find the time.
 
 ## Events
 
@@ -45,21 +50,33 @@ This file contains clarifications pertaining to questions I am frequently posed,
     - Yes
   - present remotely?
     - Yes
+  - experiment with formats
+    - Yes
 
 ## Interviews
 
 * Am I willing to be interviewed?
   - Yes, if
-    - I have sufficient expertise
+    - I have sufficient expertise.
     - The interview results in at least some materials that are openly licensed.
 
 ## Peer review
 
+### General provisions
+
+* Am I available as a peer reviewer for scholarly resources?
+  - Yes, if all of the following conditions are met
+    - I have sufficient expertise.
+    - I can find the time.
+
+### Specific provisions
+
+*These apply in addition to the general ones*
+
 * Am I available as a peer reviewer for scholarly manuscripts?
-  - Yes, if
-    - I have sufficient expertise
-    - All publications in the venue are openly licensed 
-    - The materials I am to review are public at the moment my review is requested
+  - Yes, if all of the following conditions are met
+    - All publications in the venue are openly licensed.
+    - The materials I am to review are public and openly licensed at the moment my review is requested.
 * Am I available as a peer reviewer for scholarly grant proposals?
   - Yes
 * Am I available as a peer reviewer for scholarly data?
