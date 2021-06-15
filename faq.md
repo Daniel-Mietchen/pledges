@@ -15,10 +15,13 @@ This file contains clarifications pertaining to questions I am frequently posed,
   - No
 * Which platforms am I willing to use for collaborative drafting?
   - ARPHA
+  - Codeberg
   - Etherpad
   - GitHub
+  - GitLab
   - Google docs
   - MediaWiki
+  - Nextcloud
   - Overleaf
 
 
