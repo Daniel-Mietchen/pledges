@@ -119,6 +119,7 @@ As an author or co-author of scholarly manuscripts, am I willing
     - [Suchith Anand](https://opensourcegeospatial.icaci.org/2017/07/the-pledge-i-support-open-principles-for-science-and-education-for-building-a-better-world-for-everyone/)
     - [Suzan Köseoğlu](https://differentreadings.com/2015/12/01/an-open-pledge/) (with links to other examples)
     - [grant peer review](https://ask-open-science.org/835)
+    - [Jan Ainali](https://github.com/Ainali/pledges)
 * Groups of individuals
   - examples:
     - [A pledge for planetary health to unite health professionals in the Anthropocene](https://doi.org/10.1016/S0140-6736(20)32039-0)
@@ -158,6 +159,5 @@ As an author or co-author of scholarly manuscripts, am I willing
 
 - 2021-07-22, [Ludo Waltman](https://twitter.com/LudoWaltman/status/1418083484686553092) and [Cooper Smout](https://twitter.com/CoopSmout/status/1418086715390976004)
 - 2021-07-21, [Philip N Cohen](https://twitter.com/familyunequal/status/1417892076331667458)
-- 2020-12-31, [Jan Ainali](https://twitter.com/Jan_Ainali/status/1344733775318671362)
 - 2015-12-06, [Claus Wilke](https://twitter.com/ClausWilke/status/673645194445647872)
 - 2011-10-19, [Alex Holcombe](https://twitter.com/ceptional/status/126584845005635584)
