@@ -118,6 +118,7 @@ As an author or co-author of scholarly manuscripts, am I willing
     - [Ruben Arslan](https://rubenarslan.github.io/bug_bounty.html) (bug bounty for science)
     - [Suchith Anand](https://opensourcegeospatial.icaci.org/2017/07/the-pledge-i-support-open-principles-for-science-and-education-for-building-a-better-world-for-everyone/)
     - [Suzan Köseoğlu](https://differentreadings.com/2015/12/01/an-open-pledge/) (with links to other examples)
+    - [Jan Ainali](https://github.com/Ainali/pledges)
     - [grant peer review](https://ask-open-science.org/835)
 * Groups of individuals
   - examples:
