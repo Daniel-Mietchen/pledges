@@ -107,3 +107,12 @@ As an author or co-author of scholarly manuscripts, am I willing
     - No  
   - to sign copyright transfer agreements?
     - No
+
+## Who cares?
+
+Here are some conversations related to these pledges, sorted by date:
+- 2021-07-22, [Ludo Waltman](https://twitter.com/LudoWaltman/status/1418083484686553092)
+- 2021-07-21, [Philip N Cohen](https://twitter.com/familyunequal/status/1417892076331667458)
+- 2020-12-31, [Jan Ainali](https://twitter.com/Jan_Ainali/status/1344733775318671362)
+- 2015-12-06, [Claus Wilke](https://twitter.com/ClausWilke/status/673645194445647872)
+- 2011-10-19, [Alex Holcombe](https://twitter.com/ceptional/status/126584845005635584)
