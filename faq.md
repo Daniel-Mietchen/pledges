@@ -81,15 +81,15 @@ This file contains clarifications pertaining to questions I am frequently posed,
     - All publications in the venue are openly licensed.
     - The materials I am to review are public and openly licensed at the moment my review is requested.
 * Am I available as a peer reviewer for scholarly grant proposals?
-  - Yes
+  - Yes, with a strong preference for proposals that are made public
 * Am I available as a peer reviewer for scholarly data?
-  - Yes
+  - Yes, if the data are open or have at least open metadata
 * Am I available as a peer reviewer for scholarly software?
-  - Yes
+  - Yes, if the source code is public and openly licensed
 * Am I available as a peer reviewer for scholarly output management plans?
-  - Yes
+  - Yes, if they are made public
 * Am I available as a peer reviewer for other outputs of scholarly workflows?
-  - Yes
+  - Yes, especially if they are made public
 
 ## Publishing
 
