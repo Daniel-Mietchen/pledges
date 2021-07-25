@@ -20,5 +20,6 @@ I pledge to observe the following principles in my knowledge-related professiona
 
 # See also
 
-* I have some notes on pledges over at https://github.com/Daniel-Mietchen/ideas/issues/736 and https://github.com/Daniel-Mietchen/datascience/blob/master/pledges.md that I will incorporate here over time as appropriate.
-* [Forks](https://github.com/Daniel-Mietchen/pledges/network/members)
+* [Forks of this repo](https://github.com/Daniel-Mietchen/pledges/network/members)
+* I have some more notes on pledges over at https://github.com/Daniel-Mietchen/ideas/issues/736 and https://github.com/Daniel-Mietchen/datascience/blob/master/pledges.md that I will incorporate here over time as appropriate.
+* Paper: [How do researchers approach societal impact?](https://doi.org/10.1371/journal.pone.0254006)
