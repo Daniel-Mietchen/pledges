@@ -129,9 +129,15 @@ As an author or co-author of scholarly manuscripts, am I willing
       - > "I hereby confirm that the signing individual commits to the Enabling FAIR Data objectives as defined in the Commitment Statement. I will review the commitment elements, develop a plan to address gaps, and complete the plan within one year of signing (or soonest)."
     - [Berlin call to action for open science](https://en.wikiversity.org/wiki/Wikimedia_Deutschland/Open_Science_Fellows_Program/Berlin_Call_to_Action)
     - [Position Statement on Economic Growth](https://steadystate.org/act/sign-the-position/endorsements-and-signatures/view-all-individual-signatures/)
-    - [Free our knowledge](https://www.freeourknowledge.org) have several campaigns, e.g.
+    - [Project Free our knowledge (FOK)](https://www.freeourknowledge.org) have several active campaigns, e.g.
+      - [Green Open Access Pledge](https://freeourknowledge.org/2019-07-13-green-oa-pledge/)
+      - [Gold Open Access Pledge](https://freeourknowledge.org/2019-07-13-gold-oa-pledge/)  
+      - [Platinum Open Access Pledge](https://freeourknowledge.org/2019-07-13-platinum-oa-pledge/)
+      - [Preregistration Pledge](https://freeourknowledge.org/2020-12-03-preregistration-pledge/)
+      - and several campaigns under construction, e.g. 
       - [Withholding unpaid review work from profitable publishers](https://github.com/FreeOurKnowledge/discussion/issues/9)
-      - also allow [starting a new campaign](https://www.freeourknowledge.org/campaign/create-your-own-campaign)
+      - [Open Code Pledge](https://github.com/FreeOurKnowledge/website/issues/30)
+      - FOK also allow anyone to [start a new campaign](https://www.freeourknowledge.org/campaign/create-your-own-campaign)
     - [Fraser Lab Lab Compact and Philosophy](https://fraserlab.com/compact/)
     - [Open Access Pledge](https://www.openaccesspledge.com)
     - [Cost of Knowledge](http://thecostofknowledge.com/)
