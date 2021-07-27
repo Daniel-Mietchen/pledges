@@ -133,6 +133,10 @@ As an author or co-author of scholarly manuscripts, am I willing
       - [Withholding unpaid review work from profitable publishers](https://github.com/FreeOurKnowledge/discussion/issues/9)
       - also allow [starting a new campaign](https://www.freeourknowledge.org/campaign/create-your-own-campaign)
     - [Fraser Lab Lab Compact and Philosophy](https://fraserlab.com/compact/)
+    - [Open Access Pledge](https://www.openaccesspledge.com)
+    - [Cost of Knowledge](http://thecostofknowledge.com/)
+    - [No Free View? No Review!](https://nofreeviewnoreview.org/)
+    - [Research Without Walls](http://www.researchwithoutwalls.org/)
 * Legal entities
   - [What is a good starting point for an Open Science Manifesto or Research Data Policy a university could issue?](https://ask-open-science.org/1060)
   - examples:
