@@ -141,6 +141,7 @@ As an author or co-author of scholarly manuscripts, am I willing
     - [Cost of Knowledge](http://thecostofknowledge.com/)
     - [No Free View? No Review!](https://nofreeviewnoreview.org/)
     - [Research Without Walls](http://www.researchwithoutwalls.org/)
+    - [Pledge for sustainable research in theoretical computer science](https://tcs4f.org/)
 * Legal entities
   - [What is a good starting point for an Open Science Manifesto or Research Data Policy a university could issue?](https://ask-open-science.org/1060)
   - examples:
