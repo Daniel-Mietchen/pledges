@@ -70,6 +70,7 @@ This file contains clarifications pertaining to questions I am frequently posed 
 * Am I available as a peer reviewer for scholarly resources?
   - Yes, if all of the following conditions are met
     - I have sufficient expertise.
+    - I find the resource intriguing or at least interesting in some way.
     - I can find the time.
 
 ### Specific provisions
@@ -82,6 +83,21 @@ This file contains clarifications pertaining to questions I am frequently posed 
     - The materials I am to review are public and openly licensed at the moment my review is requested.
 * Am I available as a peer reviewer for scholarly grant proposals?
   - Yes, with a strong preference for proposals that are made public
+  - Details depend on who asks
+    - Grant authors
+      - Yes, if they can demonstrate an intent to publish the proposal (e.g. by pointing to another one that is already public)
+    - Funders
+      - Yes, if they have useful responses to my questions:
+        -  What are you doing to address the prevailing [perverse incentives](https://scholia.toolforge.org/topic/Q100434356) in academia?
+        -  What is the timeline for the reviews?
+        -  How do you plan to match the proposals to the reviewers?
+        -  What precise information do you require from reviewers? Is there a form to fill in or a rubric to follow, and if so, can I see them beforehand?
+        -  How long are the proposals I am expected to review?
+        -  What aspect of the proposals are going to be public?
+        -  Will data management plans or other associated materials be part of the review process? If so, how?
+        -  Will there be any form of interaction between reviewers for a given proposal, or between reviewers and authors (e.g. an author response to reviewer comments)?
+    - Others, e.g. grant reviewers or journalists
+      - Depends, but generally yes if what they produce on that basis is publicly available under an open license.
 * Am I available as a peer reviewer for scholarly data?
   - Yes, if the data are open or have at least open metadata
 * Am I available as a peer reviewer for scholarly software?
