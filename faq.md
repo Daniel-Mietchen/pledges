@@ -63,6 +63,16 @@ This file contains clarifications pertaining to questions I am frequently posed 
     - I have sufficient expertise.
     - The interview results in at least some materials that are openly licensed.
 
+## Letters of reference
+
+* Am I willing to provide letters of reference?
+  - Yes, if 
+    - I know enough about whoever is to be portrayed in the letter.
+    - I understand the context for which the reference is sought.
+    - I know the requested language well enough to provide such a letter.
+    - I can base a good part of the letter on publicly verifiable information.
+    - The timeline works out.
+
 ## Peer review
 
 ### General provisions
