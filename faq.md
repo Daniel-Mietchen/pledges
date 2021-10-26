@@ -42,8 +42,14 @@ This file contains clarifications pertaining to questions I am frequently posed 
   - Yes, if
     - I have sufficient expertise.
     - All publications in the venue are openly licensed.
-    - The publishing fees are reasonable.
+    - The publishing fees are reasonable or absent.
+    - The journal and/ or its publisher have signed the [San Francisco Declaration on Research Assessment](https://sfdora.org/).
     - I can find the time.
+    - I get reasonable answers to any additional questions I may have, e.g.
+      - integration with Wikimedia projects
+      - integration with CiTO
+      - mapping of content to societal challenges
+      - perks for editors 
 
 ## Events
 
