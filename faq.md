@@ -80,6 +80,11 @@ This file contains clarifications pertaining to questions I am frequently posed 
     - I can base a good part of the letter on publicly verifiable information.
     - The timeline works out.
 
+## Licensing
+
+* What is the licensing of things that I shared in public?
+  - In many cases, this is stated explicitly. If not, then my contributions to it are to be considered to be under the [CC0 1.0 Universal Public Domain Dedication (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/). So if I am the sole contributor to something, it is to be considered to be available under the terms of CC0 1.0. Nonetheless, I would appreciate attribution and even notification where practical. Note that I did sign some copyright transfer agreements in the past, but the last time I did that was around 2012.
+
 ## Peer review
 
 ### General provisions
