@@ -35,6 +35,10 @@ This file contains clarifications pertaining to questions I am frequently posed 
   - in an online-first fashion?
     - Sure
 
+## Diversity, equity and inclusion
+
+* Am I willing to do my part to improve the situation?
+  - Yes 
 
 ## Editing
 
@@ -62,7 +66,7 @@ This file contains clarifications pertaining to questions I am frequently posed 
     - Yes
   - experiment with formats
     - Yes
-
+ 
 ## Interviews
 
 * Am I willing to be interviewed?
