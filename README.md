@@ -21,6 +21,7 @@ I pledge to observe the following principles in my knowledge-related professiona
 # See also
 
 * [Forks of this repo](https://github.com/Daniel-Mietchen/pledges/network/members)
+* [My annual resolutions](https://github.com/Daniel-Mietchen/ideas/tree/master/new-year-resolutions)
 * I have some more notes on pledges over at https://github.com/Daniel-Mietchen/ideas/issues/736 and https://github.com/Daniel-Mietchen/datascience/blob/master/pledges.md that I will incorporate here over time as appropriate.
 * Paper: [How do researchers approach societal impact?](https://doi.org/10.1371/journal.pone.0254006)
 * Micro-practices as a complement to modular value elements, e.g. as per [Value-forming micro-practices of managerial coaching](https://doi.org/10.1080/17521882.2019.1707245)
