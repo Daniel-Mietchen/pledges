@@ -23,3 +23,4 @@ I pledge to observe the following principles in my knowledge-related professiona
 * [Scholia about me](https://scholia.toolforge.org/author/Q20895785)
 * [Forks of this repo](https://github.com/Daniel-Mietchen/pledges/network/members)
 * [My annual resolutions](https://github.com/Daniel-Mietchen/ideas/tree/master/new-year-resolutions)
+* [Ecosia's Manifesto](https://blog.ecosia.org/manifesto/)
