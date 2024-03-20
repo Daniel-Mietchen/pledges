@@ -24,3 +24,4 @@ I pledge to observe the following principles in my knowledge-related professiona
 * [Forks of this repo](https://github.com/Daniel-Mietchen/pledges/network/members)
 * [My annual resolutions](https://github.com/Daniel-Mietchen/ideas/tree/master/new-year-resolutions)
 * [Ecosia's Manifesto](https://blog.ecosia.org/manifesto/)
+* [DataValues Manifesto](https://www.data4sdgs.org/datavaluesproject/manifesto-demanding-fair-data-future)
