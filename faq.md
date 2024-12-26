@@ -73,7 +73,7 @@ This file contains clarifications pertaining to questions I am frequently posed 
 
 * Am I willing to be interviewed?
   - Yes, if
-    - I have sufficient expertise.
+    - I have sufficient expertise in the topic.
     - The interview results in at least some materials that are openly licensed.
 
 ## Languages
