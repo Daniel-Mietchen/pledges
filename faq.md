@@ -80,6 +80,8 @@ This file contains clarifications pertaining to questions I am frequently posed 
 
 * How do I engage with other cultures?
   - I do that in multiple ways, but the most profound of them is probably that I will not spend more than 7 days in a row in a country where I can't speak any of the official languages decently enough for everyday conversations (i.e. A2 or higher in [CEFR](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)). While this may seem like a strong limit, I prefer to see it as a matter of respect and a challenge, i.e. rather than giving up on such countries, I will learn one of its languages to at least A2 level before arriving in the country. Once in that new linguistic environment, I will pay attention to cultural sensitivities around using one language or another in specific contexts. In particular, I will avoid using colonial languages whenever possible.
+* What languages do I speak?
+  - I am a native speaker of German and can speak English, French and Russian at a professional level. I am familiar with dozens of other languages to varying degrees and always happy to explore how I could use them in a meaningful way. For a rough overview, see [here](https://www.wikidata.org/wiki/User:Daniel_Mietchen/Babel). I deeply enjoy playing with languages, and I help document them on Wikidata, where they can be explored, for instance, by the [Ordia](https://ordia.toolforge.org/) tool to which I contribute.
 
 ## Letters of reference
 
