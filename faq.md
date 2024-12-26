@@ -61,7 +61,7 @@ This file contains clarifications pertaining to questions I am frequently posed 
   - attend remotely?
     - Yes
   - fly 
-    - [I have abandoned flights to destinations where I would spend less than a month]([url](https://noflyclimatesci.org/biographies/daniel-mietchen))
+    - [I have abandoned flights to destinations where I would spend less than a month](https://noflyclimatesci.org/biographies/daniel-mietchen)
   - organize remotely?
     - Yes
   - present remotely?
