@@ -60,11 +60,13 @@ This file contains clarifications pertaining to questions I am frequently posed 
 * Am I willing to 
   - attend remotely?
     - Yes
+  - fly 
+    - [I have abandoned flights to destinations where I would spend less than a month]([url](https://noflyclimatesci.org/biographies/daniel-mietchen))
   - organize remotely?
     - Yes
   - present remotely?
     - Yes
-  - experiment with formats
+  - experiment with formats?
     - Yes
  
 ## Interviews
@@ -73,6 +75,11 @@ This file contains clarifications pertaining to questions I am frequently posed 
   - Yes, if
     - I have sufficient expertise.
     - The interview results in at least some materials that are openly licensed.
+
+## Languages
+
+* How do I engage with other cultures?
+  - I do that in multiple ways, but the most profound of them is probably that I will not spend more than 7 days in a row in a country where I can't speak any of the official languages decently enough for everyday conversations (i.e. A2 or higher in [CEFR](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)). While this may seem like a strong limit, I rather see it as a matter of respect and a challenge, i.e. rather than giving up on such countries, I will learn one of its languages to at least A2 level before arriving in the country. Once in that new linguistic environment, I will pay attention to cultural sensitivities around using one language or another in specific contexts. In particular, I will avoid using colonial languages whenever possible.
 
 ## Letters of reference
 
