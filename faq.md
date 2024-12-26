@@ -157,12 +157,13 @@ As an author or co-author of scholarly manuscripts, am I willing
   - to sign copyright transfer agreements?
     - No
 
-## Where do I "document my insights into the societal benefits of activities that take up a major part of my time", as per principle 2?
+## Where do I "document my insights into the societal benefits or environmental impacts of activities that take up a major part of my time", as per principle 2?
 
 *This is still in flux but below are some pointers. I might eventually move this to a dedicated file.*
 
 - Alignment between the Sustainable Development Goals and RIO Journal is documented [here](https://doi.org/10.3897/rio.7.e68595).
 - Alignment between the Sustainable Development Goals and Wikimedia activities was the subject of a [dedicated Wikimania 2021 session](https://wikimania.wikimedia.org/wiki/2021:Submissions/Wikimedia_and_Sustainability-Selecting_topics_for_impact). The mapping is [still incomplete](https://github.com/Daniel-Mietchen/ideas/issues/1480), but I am [thinking of making a personalized version](https://github.com/Daniel-Mietchen/ideas/issues/1481) somehow.
+- I have begun to include dedicated sections on environmental impact into manuscripts I co-authored, e.g. [here](https://doi.org/10.1093/gigascience/giad113) and [here](https://doi.org/10.4230/TGDK.2.2.4). 
 
 ## Who cares?
 
