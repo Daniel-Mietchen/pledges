@@ -7,7 +7,7 @@ This repo contains materials about things I am publicly committed to.
 I pledge to observe the following principles in my knowledge-related professional and volunteering activities:
 
 1. only engage in activities where I see sufficient societal benefit;
-1. publicly document my insights into the societal benefits of activities that take up a major part of my time;
+1. publicly document my insights into the societal benefits or environmental impacts of activities that take up a major part of my time;
 1. take measures to minimize the likelihood that engagement in these activities is detrimental to the health or well-being of myself or others;
 1. share my gratitude and appreciation for providers of and contributors to resources that I find relevant;
 1. encourage open participation, scrutiny and repurposing of the processes and workflows underlying my activities;
