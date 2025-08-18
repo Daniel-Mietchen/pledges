@@ -27,3 +27,4 @@ I pledge to observe the following principles in my knowledge-related professiona
 * [Ecosia's Manifesto](https://blog.ecosia.org/manifesto/)
 * [DataValues Manifesto](https://www.data4sdgs.org/datavaluesproject/manifesto-demanding-fair-data-future)
 * [Society Library's Virtues & Values](https://www.societylibrary.org/virtues-and-values)
+* [Dare to Lead - List of Values](https://brenebrown.com/resources/dare-to-lead-list-of-values/)
