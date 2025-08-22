@@ -37,8 +37,11 @@ This file contains clarifications pertaining to questions I am frequently posed 
 
 ## Diversity, equity and inclusion
 
-* Am I willing to do my part to improve the situation?
-  - Yes 
+* Am I willing to
+  - do my part to improve the situation?
+    - Yes
+  - sit on all-male panels?
+    - No, unless someone can explain to me why that would be a good idea for a given panel. 
 
 ## Editing
 
@@ -51,6 +54,7 @@ This file contains clarifications pertaining to questions I am frequently posed 
     - I can find the time.
     - I get reasonable answers to any additional questions I may have, e.g.
       - integration with Wikimedia projects
+      - integration with nanopublications
       - integration with CiTO
       - mapping of content to societal challenges
       - perks for editors 
@@ -68,12 +72,21 @@ This file contains clarifications pertaining to questions I am frequently posed 
     - Yes
   - experiment with formats?
     - Yes
+  - facilitate hybrid sessions
+    - in person
+      - Yes
+    - online
+      - Yes 
+  - attend if there is no agenda?
+    - yes if the meeting involves three people or less
+    - no otherwise
  
 ## Interviews
 
 * Am I willing to be interviewed?
   - Yes, if
     - I have sufficient expertise in the topic.
+    - I can find the time.
     - The interview results in at least some materials that are openly licensed.
 
 ## Languages
@@ -96,7 +109,7 @@ This file contains clarifications pertaining to questions I am frequently posed 
 ## Licensing
 
 * What is the licensing of things that I shared in public?
-  - In many cases, this is stated explicitly. If not, then my contributions to it are to be considered to be under the [CC0 1.0 Universal Public Domain Dedication (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/). So if I am the sole contributor to something, it is to be considered to be available under the terms of CC0 1.0. Nonetheless, I would appreciate attribution and even notification where practical. Note that I did sign some copyright transfer agreements in the past, but the last time I did that was around 2012.
+  - In many cases, this is stated explicitly. If not, then my contributions to it are to be considered to be under the [CC0 1.0 Universal Public Domain Dedication (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/). So if I am the sole contributor to something, it is to be considered to be available under the terms of CC0 1.0. Nonetheless, I would appreciate attribution and even notification where practical. Note that I did sign some copyright transfer agreements in the past, but the last time I did was before I started the first [Wikipedia entry on the matter](https://en.wikipedia.org/wiki/Copyright_transfer_agreement) in 2012.
 
 ## Peer review
 
@@ -117,7 +130,7 @@ This file contains clarifications pertaining to questions I am frequently posed 
     - All publications in the venue are openly licensed.
     - The materials I am to review are public and openly licensed at the moment my review is requested.
 * Am I available as a peer reviewer for scholarly grant proposals?
-  - Yes, with a strong preference for proposals that are made public
+  - Yes, with a strong preference for proposals that are made public.
   - Details depend on who asks
     - Grant authors
       - Yes, if they can demonstrate an intent to publish the proposal (e.g. by pointing to another one that is already public)
