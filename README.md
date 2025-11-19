@@ -29,3 +29,4 @@ I pledge to observe the following principles in my knowledge-related professiona
 * [Society Library's Virtues & Values](https://www.societylibrary.org/virtues-and-values)
 * [Dare to Lead - List of Values](https://brenebrown.com/resources/dare-to-lead-list-of-values/)
 * [Choosing Lab Values](https://civiclaboratory.nl/2021/04/29/choosing-lab-values/)
+* [EcoWeaver Positionality Statement](https://github.com/EcoWeaver/EcoWeaver.github.io?tab=readme-ov-file#positionality-statement)
