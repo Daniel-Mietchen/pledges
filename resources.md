@@ -9,3 +9,4 @@ This file contains some value-centric resources that I found useful in some way.
 * Micro-practices as a complement to modular value elements, e.g. as per [Value-forming micro-practices of managerial coaching](https://doi.org/10.1080/17521882.2019.1707245)
 * [No, it’s not The Incentives—it’s you](https://www.talyarkoni.org/blog/2018/10/02/no-its-not-the-incentives-its-you/)
 * [Understanding values for policymaking: the challenges](https://knowledge4policy.ec.europa.eu/blog/understanding-values-policymaking-challenges_e)
+* [Munich Manifesto for Equitable Open Research](https://doi.org/10.5281/zenodo.20700870)
