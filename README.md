@@ -21,6 +21,7 @@ I pledge to observe the following principles in my knowledge-related professiona
 # See also
 
 * [Theory of basic human values](https://en.wikipedia.org/wiki/Theory_of_basic_human_values)
+* [Leiden Declaration on Artificial Intelligence and Mathematics](https://en.wikipedia.org/wiki/Leiden_Declaration_on_Artificial_Intelligence_and_Mathematics)
 * [Scholia about me](https://scholia.toolforge.org/author/Q20895785)
 * [Forks of this repo](https://github.com/Daniel-Mietchen/pledges/network/members)
 * [My annual resolutions](https://github.com/Daniel-Mietchen/ideas/tree/master/new-year-resolutions)
